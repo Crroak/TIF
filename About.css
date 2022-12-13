@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+}
+  .nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f3eee2;
+  }
+  .nav li {
+    float: right;
+}
+  .nav li a {
+    display: block;
+    color: #5165a9;
+    text-align: center;
+    padding: 28px 32px;
+    text-decoration: none;
+    font-size: 25px;
+}
+  .nav li a:hover {
+    background-color: #d9caa6;
+}
+h1 {
+    font-family: Rockwell;
+    text-align: center;
+    font-size: 100px;
+}
